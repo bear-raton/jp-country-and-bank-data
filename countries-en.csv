@@ -89,7 +89,7 @@ id,alpha2,alpha3,name,continent
 404,ke,ken,Kenya,Africa
 296,ki,kir,Kiribati,Oceania
 408,kp,prk,"Korea, Democratic People's Republic of",Asia
-410,kr,kor,"Korea, Republic of",Asia
+410,kr,kor,"South Korea, Republic of",Asia
 414,kw,kwt,Kuwait,Asia
 417,kg,kgz,Kyrgyzstan,Asia
 418,la,lao,Lao People's Democratic Republic,Asia
@@ -188,7 +188,7 @@ id,alpha2,alpha3,name,continent
 860,uz,uzb,Uzbekistan,Asia
 548,vu,vut,Vanuatu,Oceania
 862,ve,ven,"Venezuela, Bolivarian Republic of",South America
-704,vn,vnm,Viet Nam,Asia
+704,vn,vnm,Vietnam,Asia
 887,ye,yem,Yemen,Asia
 894,zm,zmb,Zambia,Africa
 716,zw,zwe,Zimbabwe,Africa
